@@ -28,8 +28,6 @@ https://drive.google.com/file/d/1cyzxeFGClEIzNSYSS5EXkzyf6NaYAB2u/view?usp=shari
 우수상(300,000원) 트랙별 2팀
 장려상(200,000원) 트랙별 3팀
 
-https://avatars.githubusercontent.com/u/115800583?v=4
-
 
 ## :heart: Collaborator:heart:
    
