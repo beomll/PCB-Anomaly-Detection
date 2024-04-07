@@ -4,6 +4,11 @@ This is The 2024 CUK Competition on Data Analytics!
 
 Pixel과 함께하는 제4회 가톨릭대학교 데이터분석 경진대회
 
+## 팀원
+## Info
+팀장: [박수형] (pshpulip22@catholic.ac.kr) <br>
+팀원: [김현이] (kh21234@catholic.ac.kr), [김호범] (hobeom2001@catholic.ac.kr) [윤채원] (codnjs026@catholic.ac.kr)
+
 ## 대회 설명
 일정: 경진대회 참가팀 및 팀별 계획서 접수: 4월 4일 ~ 4월 18일 18시
 팀별 최종 보고서 및 발표자료 제출: 5월 9일 18시
