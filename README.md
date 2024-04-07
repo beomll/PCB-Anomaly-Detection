@@ -17,7 +17,7 @@ Pixel과 함께하는 제4회 가톨릭대학교 데이터분석 경진대회
 - 데이터: Pixel에서 제공하는 PCB 생산 공정 데이터로 정상 및 불량 PCB 이미지를 포함
 - 태스크: 이미지 분석을 통해 불량 PCB 탐지를 목표로 하며, 학습에 사용된 PCB 뿐만아니라 학습에 사용되지 않은 새로운 PCB에 대해서도 안정적으로 동작하는 일반화 모델 개발
 - 데이터 배포: 아래 링크를 통해 확인
-https://drive.google.com/file/d/1cyzxeFGClEIzNSYSS5EXkzyf6NaYAB2u/view?usp=sharing
+https://drive.google.com/file/d/1cyzxeFGClEIzNSYSS5EXkzyf6NaYAB2u/view?usp=sharing <br>
 ※제공되는 데이터는 사전 학습 및 데이터 확인을 위한 샘플 데이터입니다. 데이터는 OK, NG 영상으로 구성되어 있으며, OK는 이상 없는 이미지, NG는 결함이 있는 이미지입니다. 본 데이터를 활용하여 OK와 NG를 binary classification하는 것이 본 대회의 목적입니다."
 
  
