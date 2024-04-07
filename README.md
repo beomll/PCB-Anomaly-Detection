@@ -28,6 +28,6 @@ https://avatars.githubusercontent.com/u/115800583?v=4
 
 ## :heart: Collaborator:heart:
    
-|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/YunjooK)|
+|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/hye0n22)|
 |-|-|
-|박수형|강윤주|
+|박수형|김현이|
