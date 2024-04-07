@@ -31,6 +31,6 @@ https://drive.google.com/file/d/1cyzxeFGClEIzNSYSS5EXkzyf6NaYAB2u/view?usp=shari
 
 ## :heart: Collaborator:heart:
    
-|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/hye0n22)||[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)[<img src="https://i.namu.wiki/i/ZfdNgW8AkDegm0T7LXYojNBFc8LXcrNjjugB-E-gXpYOWUrffwnY-5H5NDoIMlsLvypPmqYIKlOpbdLShMMy_uphfOZBQKVvPGl74lIhfVWqgB0NwIG5opUClwqKI6_p0WMKrIWwERFUltLZtaQxwg.webp" width = 100>](https://github.com/jycodnjs)
+|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://i.namu.wiki/i/ZfdNgW8AkDegm0T7LXYojNBFc8LXcrNjjugB-E-gXpYOWUrffwnY-5H5NDoIMlsLvypPmqYIKlOpbdLShMMy_uphfOZBQKVvPGl74lIhfVWqgB0NwIG5opUClwqKI6_p0WMKrIWwERFUltLZtaQxwg.webp" width = 100>](https://github.com/jycodnjs)
 |-|-|-|
 |김현이|박수형|윤채원|
