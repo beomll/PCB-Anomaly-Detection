@@ -23,9 +23,11 @@ https://drive.google.com/file/d/1cyzxeFGClEIzNSYSS5EXkzyf6NaYAB2u/view?usp=shari
 우수상(300,000원) 트랙별 2팀
 장려상(200,000원) 트랙별 3팀
 
+https://avatars.githubusercontent.com/u/115800583?v=4
+
 
 ## :heart: Collaborator:heart:
    
-|[<img src="https://user-images.githubusercontent.com/101535851/197534463-7804a8d6-13fc-427a-8e5f-533356329d64.png" width = 100>](https://github.com/SeoYeonBae)|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/YunjooK)|
+|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/YunjooK)|
 |-|-|
-|배서연|강윤주|
+|박수형|강윤주|
