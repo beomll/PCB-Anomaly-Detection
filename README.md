@@ -34,3 +34,22 @@ https://drive.google.com/file/d/1cyzxeFGClEIzNSYSS5EXkzyf6NaYAB2u/view?usp=shari
 |[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://i.namu.wiki/i/ZfdNgW8AkDegm0T7LXYojNBFc8LXcrNjjugB-E-gXpYOWUrffwnY-5H5NDoIMlsLvypPmqYIKlOpbdLShMMy_uphfOZBQKVvPGl74lIhfVWqgB0NwIG5opUClwqKI6_p0WMKrIWwERFUltLZtaQxwg.webp" width = 100>](https://github.com/jycodnjs)
 |-|-|-|
 |김현이|박수형|윤채원|
+
+
+
+
+## Requirements
+```
+pytorch 2.3.0+cu12 => pytorch.org
+wandb 0.16.6 => pip install wandb
+```
+
+## Quick Start
+```
+python run.py [-h] [--seed SEED] [-m MODEL_TYPE] [-lr LEARNING_RATE] [-e NUM_EPOCHS] [-b BATCH_SIZE] [-sch SCHEDULER] [-opt OPTIMIZER]\
+              [-w WARMUP_STEPS] [-g GAMMA] [-d DROP_PROB] [-s STEP_SIZE]\
+              [-trn TRAIN_DATA] [-val VAL_DATA] [-tst TEST_DATA] [-p PRETRAINED] [-mp MODEL_PATH] [-sp SAVE_PATH]
+```
+```
+python run.py -lr 1e-4 -e 250 -b 256 -opt adam -g 0.1 -p False -d 0.1 -m resnext
+```
