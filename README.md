@@ -28,10 +28,10 @@ https://drive.google.com/file/d/1cyzxeFGClEIzNSYSS5EXkzyf6NaYAB2u/view?usp=shari
 우수상(300,000원) 트랙별 2팀
 장려상(200,000원) 트랙별 3팀
 
-
+https://avatars.githubusercontent.com/u/166282001?v=4
 ## :heart: Collaborator:heart:
    
-|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/ycodnjs)|
+|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://avatars.githubusercontent.com/u/166282001?v=4" width = 100>](https://github.com/ycodnjs)|
 |-|-|-|
 |김현이|박수형|윤채원|
 
