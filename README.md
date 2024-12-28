@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1cyzxeFGClEIzNSYSS5EXkzyf6NaYAB2u/view?usp=shari
 
 ## :heart: Collaborator:heart:
    
-|[https://avatars.githubusercontent.com/u/145743629?v=4](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|(https://github.com/ycodnjs)
+|[<img scr="https://avatars.githubusercontent.com/u/145743629?v=4" width = 100>](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img scr="https://avatars.githubusercontent.com/u/145743629?v=4" width = 100>](https://github.com/ycodnjs)
 |-|-|-|
 |김현이|박수형|윤채원|
 
